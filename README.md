@@ -72,4 +72,4 @@ Make sure to replace `calibration_settings.yaml` with the actual path to your ca
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache 2.0 license](LICENSE).
