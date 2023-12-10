@@ -1,6 +1,6 @@
 # Camera Calibration and Stereo Calibration README
 
-This repository contains Python scripts for calibrating individual cameras and performing stereo calibration using OpenCV. The calibration process involves obtaining intrinsic parameters for each camera and determining the transformation between the two cameras in a stereo setup. The parameters are saved as a file `stereoMap.xml` and in the camera_parameters directory. 
+This repository contains Python scripts for calibrating individual cameras and performing stereo calibration using OpenCV. The calibration process involves obtaining intrinsic parameters for each camera and determining the transformation between the two cameras in a stereo setup. The parameters are saved as a file `stereoMap.xml` and in the camera_parameters directory. For examples on using parameters, please refer my repository [here](https://github.com/Spenc3rB/APDde).
 
 ## Prerequisites
 
