@@ -66,6 +66,10 @@ Make sure to replace `calibration_settings.yaml` with the actual path to your ca
 
 - Make sure to adjust the `calibration_settings.yaml` file to match your specific setup.
 
+## Acknowledgements
+
+- A lot of this code is derived and redeveloped from [TemugeB's repository on github](https://github.com/TemugeB/python_stereo_camera_calibrate)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
